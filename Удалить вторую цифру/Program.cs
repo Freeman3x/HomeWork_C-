@@ -19,5 +19,5 @@ Console.WriteLine(c);
 Console.Write("третье число: ");
 Console.WriteLine(d);
 
-Console.Write("Новое число: ");
+Console.Write("результат: ");
 Console.Write(a);Console.Write(d);
